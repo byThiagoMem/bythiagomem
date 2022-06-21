@@ -20,7 +20,7 @@
   <img align="center" alt="Mem-Android" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"> ||
   <img align="center" alt="Mem-vs-code" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="right" alt="Mem-pic" height="150" style="border-radius:50px;"          
-src="https://media-exp1.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1648684800&v=beta&t=Q_PWs7lr1TazcyM1kWwugVLTmweRnF5keRY2DZ4ey28">
+src="[https://media-exp1.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1648684800&v=beta&t=Q_PWs7lr1TazcyM1kWwugVLTmweRnF5keRY2DZ4ey28](https://www.linkedin.com/in/thiago-a-mem-311720130/)">
 </div>
   
   ##
