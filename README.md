@@ -19,7 +19,7 @@
   <img align="center" alt="Mem-Apple" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Mem-Android" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"> ||
   <img align="center" alt="Mem-vs-code" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
-  <img align="right" alt="Mem-pic" height="120" style="border-radius:50px;" img src="https://media-exp2.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1661385600&v=beta&t=OkfXqAiBNaw9YAx-oOTwOOD-tr-oByzn9bZ6uQIVdDg">
+  <img align="right" alt="Mem-pic" height="120" style="border-radius:50px;" img src="https://media-exp1.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1674086400&v=beta&t=k2dGp7opU-1LCE4hvzkuNS3ub1Yk4AiV4i-k9Y9Hkp4">
 </div>
   
   ##
