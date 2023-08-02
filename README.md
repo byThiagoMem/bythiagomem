@@ -19,7 +19,7 @@
   <img align="center" alt="Mem-Apple" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Mem-Android" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"> ||
   <img align="center" alt="Mem-vs-code" height="35" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
-  <img align="right" alt="Mem-pic" height="120" style="border-radius:50px;" img src="https://media-exp1.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1674086400&v=beta&t=k2dGp7opU-1LCE4hvzkuNS3ub1Yk4AiV4i-k9Y9Hkp4">
+  <img align="right" alt="Mem-pic" height="120" style="border-radius:50px;" img src="[https://media-exp1.licdn.com/dms/image/C4E03AQEsuIwytgy7uQ/profile-displayphoto-shrink_800_800/0/1619892683985?e=1674086400&v=beta&t=k2dGp7opU-1LCE4hvzkuNS3ub1Yk4AiV4i-k9Y9Hkp4](https://media.licdn.com/dms/image/D4D03AQFsCt6HTf5JMw/profile-displayphoto-shrink_800_800/0/1686918561737?e=1696464000&v=beta&t=-YSVqfYhfxOuqrr0mnVC2WV3dGrqCrNgcs9uX04h9uM)">
 </div>
   
   ##
